@@ -1,7 +1,7 @@
 {
   "name": "ember-suave",
   "version": "0.1.11",
-  "description": "Make your Ember App Stylish",
+  "description": "Automatically enforce your teams's Javascript style",
   "directories": {
     "test": "tests"
   },
